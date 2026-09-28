@@ -146,5 +146,5 @@ Financial-Fraud-Analytics/
 
 
 **Sahil Mhaske**
-Junior Data Analyst | Power BI · SQL · Excel
+Aspiring Data Analyst | Power BI · SQL · Excel
 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · your.email@example.com
