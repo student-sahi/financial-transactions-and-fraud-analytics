@@ -145,6 +145,6 @@ Financial-Fraud-Analytics/
 - Translating findings into business recommendations
 
 
-**Your Name**
+**Sahil Mhaske**
 Junior Data Analyst | Power BI · SQL · Excel
 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · your.email@example.com
